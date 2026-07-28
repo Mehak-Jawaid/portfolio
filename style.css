@@ -169,3 +169,14 @@ h2 {
 .button:hover {
     background-color: #60A5FA;
 }
+.project-card {
+    background-color: #1E293B;
+    padding: 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.project-card h3 {
+    color: #93C5FD;
+    margin-bottom: 15px;
+}
