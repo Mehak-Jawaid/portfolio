@@ -521,6 +521,21 @@ p {
     font-size: 17px;
 }
 
+.contact-email {
+    margin-top: 18px;
+}
+
+.contact-email a {
+    color: var(--accent-soft);
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.contact-email a:hover {
+    text-decoration: underline;
+}
+
 .coming-soon {
     margin-top: 26px;
     font-size: 14px;
