@@ -484,6 +484,13 @@ p {
     margin: 0;
 }
 
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px 22px;
+    align-items: center;
+}
+
 .tag-list {
     list-style: none;
     display: flex;
